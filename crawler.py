@@ -1,5 +1,5 @@
 #Finish crawl web
-
+#Test if Git work or not
 def get_page(url):
     try:
         import urllib
